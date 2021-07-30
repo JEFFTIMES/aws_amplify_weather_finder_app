@@ -40,7 +40,7 @@ const InputForm =  (props) => {
             {
                 method: "GET",
                 headers: {
-                    "x-rapidapi-key": process.env.REACT_APP_WEATHER_API_KEY,
+                    "x-rapidapi-key": "0bc8a51df9msh653d8814c6878b2p1eee9bjsn040b5429fd1b",
                     "x-rapidapi-host": "community-open-weather-map.p.rapidapi.com",
                 }
             }
